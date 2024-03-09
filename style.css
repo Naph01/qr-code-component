@@ -28,7 +28,7 @@ body{
 
 .top-section img{
     width: 100%;
-    height: 50%;
+    height: auto;
     border-radius: 20px;
 }
 
